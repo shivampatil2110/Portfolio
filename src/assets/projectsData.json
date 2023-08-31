@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "title":"News Monkey",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+        "image":"./intro-bg.jpg"
+    },
+    {
+        "id":"2",
+        "title":"News Monkey",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+        "image":"./intro-bg.jpg"
+    },
+    {
+        "id":"3",
+        "title":"News Monkey",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+        "image":"./intro-bg.jpg"
+    },
+    {
+        "id":"4",
+        "title":"News Monkey",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+        "image":"./intro-bg.jpg"
+    },
+    {
+        "id":"5",
+        "title":"News Monkey",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+        "image":"./intro-bg.jpg"
+    }
+]

@@ -1,0 +1,23 @@
+.dark-form {
+    background-color: #333; 
+    color: #fff;
+    padding: 50px; 
+    padding-top: 8.3rem;
+    padding-bottom: 8.3rem;
+  }
+  
+  .dark-form input[type="text"],
+  .dark-form input[type="email"],
+  .dark-form textarea{
+    background-color: #555; 
+    color: #fff; 
+    border: 1px solid #444; 
+  }
+  
+
+  .dark-form button[type="submit"] {
+    background-color: #007BFF; 
+    color: #fff; 
+    border: none;
+  }
+  

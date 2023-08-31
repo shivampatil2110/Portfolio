@@ -1,0 +1,49 @@
+html body {
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-scrollbar {
+    width: 0px; /* Width of the scrollbar */
+  }
+
+.hero-img{
+    width: 100%;
+    height: 90.3vh;
+}
+
+.hero-img::before{
+    content: "";
+    background: url("../assets/project.jpg");
+    background-size: cover;
+    background-position: center top;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.p-2{
+    color: rgb(23, 28, 3);
+    display: flex;
+    justify-content: center;
+}
+
+.heading{
+    margin-top: 14rem;
+    padding-bottom: 0;
+}
+
+.para{
+    font-size: 1.2rem;
+}
+
+.Container{
+    max-width: 1500px;
+    padding-right: 0;
+    padding-left: 0;
+}
