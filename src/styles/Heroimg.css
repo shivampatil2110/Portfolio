@@ -36,10 +36,12 @@ html body {
 .heading{
     margin-top: 14rem;
     padding-bottom: 0;
+    color: rgb(255, 255, 255);
 }
 
 .para{
     font-size: 1.2rem;
+    color: white;
 }
 
 .Container{
